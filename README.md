@@ -56,4 +56,4 @@ Welcome to the InstaClick project! This is a full-stack application built with t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/vandanasingh5/InstaClick.git
