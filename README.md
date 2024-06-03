@@ -36,6 +36,9 @@ Welcome to the InstaClick project! This is a full-stack application built with t
 ### Post Page
 ![Post Page](path/to/your/screenshot3.png)
 
+### Followers Page
+![Followers Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/followers.jpeg)
+
 ## Technologies Used
 
 - **Frontend:**
