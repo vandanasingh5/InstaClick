@@ -2,7 +2,7 @@
 
 Welcome to the InstaClick project! This is a full-stack application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and JWT for authentication. The application is fully responsive, styled with Tailwind CSS, and includes features such as posting, deleting posts, commenting, liking/unliking posts, messaging, profile viewing, followers/following management, and user authentication.
 
-![App Screenshot](path/to/your/screenshot.png)
+![App Screenshot](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/profile.jpeg)
 
 ## Features
 
