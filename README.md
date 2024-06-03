@@ -31,7 +31,7 @@ Welcome to the InstaClick project! This is a full-stack application built with t
 ![Home Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
 
 ### Profile Page
-![Profile Page](path/to/your/screenshot2.png)
+![Profile Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/profile.jpeg)
 
 ### Post Page
 ![Post Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
