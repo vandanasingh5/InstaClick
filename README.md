@@ -28,13 +28,13 @@ Welcome to the InstaClick project! This is a full-stack application built with t
 ## Screenshots
 
 ### Home Page
-![Home Page](path/to/your/screenshot1.png)
+![Home Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
 
 ### Profile Page
 ![Profile Page](path/to/your/screenshot2.png)
 
 ### Post Page
-![Post Page](path/to/your/screenshot3.png)
+![Post Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/posts.jpeg)
 
 ### Followers Page
 ![Followers Page](https://github.com/vandanasingh5/InstaClick/blob/main/client/public/followers.jpeg)
